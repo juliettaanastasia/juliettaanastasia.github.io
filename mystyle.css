@@ -297,11 +297,13 @@ nav
 }
 
 .foto2 img{
-	img { max-width: 100%; height: auto; }
+	width: 100%;
+	height: auto;
 	object-fit: cover;
 }
 .foto3 img{
-	img { max-width: 100%; height: auto; }
+	width: 100%;
+	height: auto;
 	object-fit: cover;
 }
 .foto4 img{
