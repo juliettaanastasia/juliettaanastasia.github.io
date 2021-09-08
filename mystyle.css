@@ -287,6 +287,7 @@ nav
 }
 
 .container{
+	position: relative;
 	margin-top: 4%;
 }
 
@@ -324,6 +325,7 @@ nav
 	grid-template-rows: auto;
 	column-gap: 20px;
 	row-gap: 40px;
+	position: relative;
 }
 
 .box1, .box2, .box3, .box4{
